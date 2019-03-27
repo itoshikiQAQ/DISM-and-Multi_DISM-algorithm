@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="StatisticalClasses"/>
+	<classpathentry excluding="weka/core/" kind="src" path="weka/src/main/java"/>
+	<classpathentry kind="src" path="weka/src/main/java/weka/core"/>
+	<classpathentry kind="src" path="weka/src/test/java"/>
+	<classpathentry kind="src" path="WekaUtilities"/>
+	<classpathentry kind="lib" path="D:/Weka-3-8/weka.jar" sourcepath="weka"/>
+	<classpathentry kind="lib" path="D:/ml/论文及代码/netbeans工程/build/classes"/>
+	<classpathentry kind="lib" path="D:/Weka-3-8/weka-src.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
